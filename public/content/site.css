@@ -5,3 +5,47 @@
     width: 100vw;
     font-size: 100px;
 }
+
+.inline {
+    display: inline;
+}
+
+.pull-right {
+    float: right;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
+.btn-black:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn-black:active {
+    background-color: darkgray;
+    color: white;
+}
+
+.max-width-400 {
+    max-width: 400px;
+}
+
+.max-width-500 {
+    width: 500px;
+}
+
+.tall-list-item {
+    min-height: 30px;
+}
+
+.inline-row {
+    display: inline;
+}
